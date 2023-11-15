@@ -1,0 +1,15 @@
+D:\Day3Solution\Day3\bin\Debug\net6.0\Day3.exe
+D:\Day3Solution\Day3\bin\Debug\net6.0\Day3.deps.json
+D:\Day3Solution\Day3\bin\Debug\net6.0\Day3.runtimeconfig.json
+D:\Day3Solution\Day3\bin\Debug\net6.0\Day3.dll
+D:\Day3Solution\Day3\bin\Debug\net6.0\Day3.pdb
+D:\Day3Solution\Day3\obj\Debug\net6.0\Day3.csproj.AssemblyReference.cache
+D:\Day3Solution\Day3\obj\Debug\net6.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day3Solution\Day3\obj\Debug\net6.0\Day3.AssemblyInfoInputs.cache
+D:\Day3Solution\Day3\obj\Debug\net6.0\Day3.AssemblyInfo.cs
+D:\Day3Solution\Day3\obj\Debug\net6.0\Day3.csproj.CoreCompileInputs.cache
+D:\Day3Solution\Day3\obj\Debug\net6.0\Day3.dll
+D:\Day3Solution\Day3\obj\Debug\net6.0\refint\Day3.dll
+D:\Day3Solution\Day3\obj\Debug\net6.0\Day3.pdb
+D:\Day3Solution\Day3\obj\Debug\net6.0\Day3.genruntimeconfig.cache
+D:\Day3Solution\Day3\obj\Debug\net6.0\ref\Day3.dll
